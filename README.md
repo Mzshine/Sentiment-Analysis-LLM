@@ -11,12 +11,12 @@ Proyek ini bertujuan untuk melakukan analisis sentimen terhadap berita berbahasa
 -  Output dalam format JSON (terstruktur)
 -  Penanganan error parsing & fallback jika API gagal
 
-##  Teknologi dan Library
+##  Library yang Digunakan
 
 - Python 3.8+
-- [`requests`](https://pypi.org/project/requests/)
-- [`nltk`](https://www.nltk.org/)
-- [`sastrawi`](https://pypi.org/project/Sastrawi/)
+- [`requests`]
+- [`nltk`]
+- [`sastrawi`]
 
 ##  Instalasi
 
